@@ -13,10 +13,10 @@ packages:
     dependency: transitive
     description:
       name: black_hole_flutter
-      sha256: ad957dd07106932f07b040dcc4d08c7532a284821183a21ca5ad993b545c2707
+      sha256: "43a5b16b0cbd55e762afa6e438daa179b86d7b93277737e07298b82b83b946a9"
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.5"
+    version: "1.0.3"
   characters:
     dependency: transitive
     description:
@@ -78,58 +78,26 @@ packages:
     dependency: "direct main"
     description:
       name: debug_overlay
-      sha256: "7e11f670f9159cba5cd65c6bcfc82f260c4898b6d39912222b75763ae7b1aa57"
+      sha256: "0fc9bff190afda919dccb0f29c17e40c71e02c90a85f25f7f1be4e92ed0a0034"
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.2"
+    version: "0.2.7"
   device_info_plus:
     dependency: transitive
     description:
       name: device_info_plus
-      sha256: c31c5b2f60d2a7cff200e417946504715899abc2b09a779424ee7a8737f0cba4
+      sha256: f52ab3b76b36ede4d135aab80194df8925b553686f0fa12226b4e2d658e45903
       url: "https://pub.dev"
     source: hosted
-    version: "5.0.5"
-  device_info_plus_linux:
-    dependency: transitive
-    description:
-      name: device_info_plus_linux
-      sha256: "3765e3551771ba8861a4a85c5754cc2fd4dac603db47e122d8038662f1f3f194"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.0.2"
-  device_info_plus_macos:
-    dependency: transitive
-    description:
-      name: device_info_plus_macos
-      sha256: "49ed064fb29c02b1c9c2c9f7e44ed471e8dfe4bf2e4be15c2af6960ed5ee069f"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.0.2"
+    version: "8.2.2"
   device_info_plus_platform_interface:
     dependency: transitive
     description:
       name: device_info_plus_platform_interface
-      sha256: "11cc890db4230005d7daa1f1112becc1be28e74b1a1b7e9e12e23664002ee1a9"
+      sha256: d3b01d5868b50ae571cd1dc6e502fc94d956b665756180f7b16ead09e836fd64
       url: "https://pub.dev"
     source: hosted
-    version: "4.0.1"
-  device_info_plus_web:
-    dependency: transitive
-    description:
-      name: device_info_plus_web
-      sha256: c5ae096e9d089d10dbb8e8d215b370ce2d249a596c54f46f5a227a8d2a1f402c
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.0.2"
-  device_info_plus_windows:
-    dependency: transitive
-    description:
-      name: device_info_plus_windows
-      sha256: "908c966d946b563169387b6e12829f2fc1a22e7b302593584ff12a7ff444d4fa"
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.0.2"
+    version: "7.0.0"
   ffi:
     dependency: transitive
     description:
@@ -197,10 +165,10 @@ packages:
     dependency: transitive
     description:
       name: implicitly_animated_list
-      sha256: eb87227f9d55ac2d927ea8c2ef59b6cd24cada87f869a7a584c1c9e07cbf35c6
+      sha256: "327074913ed350fbd5089bf433d6268fb98022210e03668035523da7ff64dfdb"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.2.0"
   intl:
     dependency: transitive
     description:
@@ -261,50 +229,18 @@ packages:
     dependency: transitive
     description:
       name: package_info_plus
-      sha256: f62d7253edc197fe3c88d7c2ddab82d68f555e778d55390ccc3537eca8e8d637
+      sha256: "10259b111176fba5c505b102e3a5b022b51dd97e30522e906d6922c745584745"
       url: "https://pub.dev"
     source: hosted
-    version: "1.4.3+1"
-  package_info_plus_linux:
-    dependency: transitive
-    description:
-      name: package_info_plus_linux
-      sha256: "04b575f44233d30edbb80a94e57cad9107aada334fc02aabb42b6becd13c43fc"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.5"
-  package_info_plus_macos:
-    dependency: transitive
-    description:
-      name: package_info_plus_macos
-      sha256: a2ad8b4acf4cd479d4a0afa5a74ea3f5b1c7563b77e52cc32b3ee6956d5482a6
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.3.0"
+    version: "3.1.2"
   package_info_plus_platform_interface:
     dependency: transitive
     description:
       name: package_info_plus_platform_interface
-      sha256: f7a0c8f1e7e981bc65f8b64137a53fd3c195b18d429fba960babc59a5a1c7ae8
+      sha256: "9bc8ba46813a4cc42c66ab781470711781940780fd8beddd0c3da62506d3a6c6"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.2"
-  package_info_plus_web:
-    dependency: transitive
-    description:
-      name: package_info_plus_web
-      sha256: f0829327eb534789e0a16ccac8936a80beed4e2401c4d3a74f3f39094a822d3b
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.6"
-  package_info_plus_windows:
-    dependency: transitive
-    description:
-      name: package_info_plus_windows
-      sha256: "79524f11c42dd9078b96d797b3cf79c0a2883a50c4920dc43da8562c115089bc"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.0"
+    version: "2.0.1"
   path:
     dependency: transitive
     description:
@@ -455,4 +391,4 @@ packages:
     version: "3.0.1"
 sdks:
   dart: ">=3.0.0-0 <4.0.0"
-  flutter: ">=3.0.0"
+  flutter: ">=3.7.0"
